@@ -1,0 +1,1 @@
+choco install pyenv-win -Force -Confirm:$false
