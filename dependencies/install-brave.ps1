@@ -1,0 +1,1 @@
+choco install brave -Force -Confirm:$false
