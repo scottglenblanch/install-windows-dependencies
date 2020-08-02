@@ -1,1 +1,3 @@
-choco install nodejs -Force -Confirm:$false
+choco install nvm -Force -Confirm:$false
+
+nvm install 14
